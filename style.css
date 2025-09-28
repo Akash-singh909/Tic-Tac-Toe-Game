@@ -38,6 +38,15 @@ body {
     background-color: #fff
 }
 
+.btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    color: #fff;
+    background-color: #191913;
+    border-radius: 1rem;
+    border: none;
+}
+
 #reset-btn {
     padding: 1rem;
     font-size: 1.25rem;
